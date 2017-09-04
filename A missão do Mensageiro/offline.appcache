@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1502650128
+#1504531530
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -10,7 +10,6 @@ images/orbita-sheet0.png
 images/nuvem-sheet0.png
 images/personagem-sheet0.png
 images/inimigo-sheet0.png
-images/inimigo-sheet1.png
 images/explosao-sheet0.png
 images/blocodecolisao-sheet0.png
 images/spritetelamenu-sheet0.png
@@ -28,7 +27,7 @@ images/cartavermelha-sheet0.png
 images/cartaamarela-sheet0.png
 images/sprite5-sheet0.png
 images/spritefont.png
-images/sprite7-sheet0.png
+images/regras43-sheet0.png
 images/sprite4-sheet0.png
 images/sprite9-sheet0.png
 images/ihudopcoes-sheet0.png
@@ -36,7 +35,6 @@ images/ipontuacao-sheet0.png
 images/sprite11-sheet0.png
 images/sprite12-sheet0.png
 images/sprite13-sheet0.png
-images/sprite13-sheet1.png
 images/sol-sheet0.png
 images/sprite15-sheet0.png
 images/obita2-sheet0.png
@@ -47,6 +45,16 @@ images/sprite18-sheet0.png
 images/sprite19-sheet0.png
 images/sprite20-sheet0.png
 images/parabens-sheet0.png
+images/cenario-sheet0.png
+images/sprite24-sheet0.png
+images/alien-sheet0.png
+images/cartav-sheet0.png
+images/cenario3-sheet0.png
+images/sprite23-sheet0.png
+images/cartaa-sheet0.png
+images/lolnave-sheet0.png
+images/sprite27-sheet0.png
+images/tiledbackground.png
 media/sound3.m4a
 media/sound3.ogg
 media/sound5.m4a

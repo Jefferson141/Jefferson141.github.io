@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1504532041,
+	"version": 1504559894,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -29,6 +29,7 @@
 		"images/sprite5-sheet0.png",
 		"images/spritefont.png",
 		"images/regras43-sheet0.png",
+		"images/regras44-sheet0.png",
 		"images/sprite4-sheet0.png",
 		"images/sprite9-sheet0.png",
 		"images/ihudopcoes-sheet0.png",
@@ -56,6 +57,8 @@
 		"images/lolnave-sheet0.png",
 		"images/sprite27-sheet0.png",
 		"images/tiledbackground.png",
+		"images/sprite31-sheet0.png",
+		"images/sprite32-sheet0.png",
 		"media/sound3.m4a",
 		"media/sound3.ogg",
 		"media/sound5.m4a",

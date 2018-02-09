@@ -16,7 +16,7 @@ Sou estudante de jogos que gosta muito DAS AULAS DO PROF MARCELO.
 
 # Artes
 
-![IMAGEM] (http://minecraftpixelartbuildingideas.blogspot.com/2013/02/pixel-art-incredible-hulk-minecraft.html)
+![IMAGEM](http://minecraftpixelartbuildingideas.blogspot.com/2013/02/pixel-art-incredible-hulk-minecraft.html)
 
 # Apresentações
 * Aula de música

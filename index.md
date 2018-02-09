@@ -12,13 +12,13 @@ Sou estudante de jogos que gosta muito DAS AULAS DO PROF MARCELO.
 
 ## Games
 
-[Jogo 1 Oficina : Pense se você puder](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)
+[![](Jogo1.png)](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)
 
-![](Sonic.png)
+![](Jogo1.png)
 
 # Artes
 
-![![](Sonic.png)](http://4.bp.blogspot.com/-97VP7e8NGkU/URkrLUZI57I/AAAAAAAAEQY/-cNg114yN1k/s1600/hulk_pixelart3_grid.png)
+![IMAGEM](http://4.bp.blogspot.com/-97VP7e8NGkU/URkrLUZI57I/AAAAAAAAEQY/-cNg114yN1k/s1600/hulk_pixelart3_grid.png)
 ![](Sonic.png)
 
 # Apresentações

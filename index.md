@@ -31,7 +31,9 @@ Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instit
 
 # Artes
 
+**Fase 1**
 ![](Arte1 A missão do Mensageiro.png)
+**Fase 2**
 ![](Arte2 A missão do Mensageiro.png)
 
 ***

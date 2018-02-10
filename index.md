@@ -10,6 +10,12 @@ Sou estudante de jogos que gosta muito DAS AULAS DO PROF MARCELO.
 
 #Portfolio
 
+# Contatos
+
+* Whatsapp : +55 084994322499
+* Facebook : ![Jefferson Araújo](https://www.facebook.com/profile.php?id=100005695811266)
+* Instagram : 
+
 ## Games
 
 [![](Jogo1.png)](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)

@@ -6,7 +6,7 @@ Criando **minha**, _página_, ~~principal~~.
 
 # Quem sou eu
 
-Sou estudante de jogos que gosta muito DAS AULAS DO PROF MARCELO.
+Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instituto federal de Educação de Educação Ciencia e Tecnologia do Rio Grande do Norte "IFRN" Campus Ceará-Mirim/RN
 
 #Portfolio
 

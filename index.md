@@ -12,11 +12,10 @@ Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instit
 
 # Contatos
 
-* Whatsapp : +55 084994322499
-* Facebook : [![]https://www.facebook.com/people/Jefferson-Araujo/100005695811266]()
-
+* Email: jeffersonaraujo141@gmail.com
+* Facebook : Jefferson Araújo
 * Instagram : jeffersonaraujo141
-
+***
 ## Games
 * A missão do mensageiro
 [![](Jogo2.png)](https://jefferson141.github.io/A%20miss%C3%A3o%20do%20Mensageiro/)
@@ -24,13 +23,13 @@ Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instit
 * Pense se você puder
 [![](Jogo1.png)](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)
 
-
+***
 
 # Artes
 
 ![IMAGEM](http://4.bp.blogspot.com/-97VP7e8NGkU/URkrLUZI57I/AAAAAAAAEQY/-cNg114yN1k/s1600/hulk_pixelart3_grid.png)
 ![](Sonic.png)
-
+***
 # Apresentações
 * Aula de música
 * Aula de Teatro

@@ -13,7 +13,7 @@ Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instit
 # Contatos
 
 * Whatsapp : +55 084994322499
-* Facebook : ![Jefferson Araújo](https://www.facebook.com/people/Jefferson-Araujo/100005695811266)
+* Facebook : ![https://www.facebook.com/people/Jefferson-Araujo/100005695811266](https://www.facebook.com/people/Jefferson-Araujo/100005695811266)
 * Instagram : jeffersonaraujo141
 
 ## Games

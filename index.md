@@ -38,6 +38,7 @@ Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instit
 
 
 
+
 **Influence map**
 ![](Influence map.png)
 

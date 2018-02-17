@@ -46,6 +46,7 @@ Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instit
 
 # Projetos Desenvolvidos
 
+![IMAGEM](BannerEXPOTEC.png)
 
 
 

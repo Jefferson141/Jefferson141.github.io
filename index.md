@@ -46,6 +46,9 @@ Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instit
 
 # Projetos Desenvolvidos
 
+* Projeto Integrador(PI) - MATEMÁTICA NA CRIAÇÃO DE RPG´S
+**Orientadores :** Daniela Beny
+
 ![IMAGEM](BannerEXPOTEC.png)
 
 

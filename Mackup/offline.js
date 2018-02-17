@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1518888133,
+	"version": 1518889513,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -24,7 +24,6 @@
 		"images/sprite-sheet0.png",
 		"images/sprite-sheet1.png",
 		"images/escada2-sheet0.png",
-		"images/sprite2-sheet0.png",
 		"media/m.ogg (online-audio-converter.com).ogg",
 		"icon-16.png",
 		"icon-32.png",

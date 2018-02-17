@@ -20839,8 +20839,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite,
 	cr.plugins_.Touch,
 	cr.system_object.prototype.cnds.OnLayoutStart,
-	cr.plugins_.Audio.prototype.acts.Play,
-	cr.plugins_.Touch.prototype.cnds.OnTouchObject,
-	cr.system_object.prototype.acts.GoToLayout
+	cr.plugins_.Audio.prototype.acts.Play
 ];};
 

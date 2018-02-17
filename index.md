@@ -44,6 +44,20 @@ Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instit
 
 ***
 
+# Projetos Desenvolvidos
+
+
+
+
+
+
+
+
+
+
+
+***
+
 # Apresentações
 * **Jogo 1** - A missão do mensageiro - É um jogo touch, pode ser jogado em smartphones ou PC's. O jogo tem como objetivo fazer com que a nave pegue cartas para poder passar de fase, na primeira fase temos que pegar 5 cartas amarelas que conta como pontuação, devemos desviar dos inimigos e obstáculos para não perdermos. Já na segunda fase temos que pegar 20 cartas para poder vencer.
 

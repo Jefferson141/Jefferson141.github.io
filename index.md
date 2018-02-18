@@ -57,8 +57,8 @@ Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instit
 ![](Influence map.png)
 
 
-**Mackup**
-![](Mackupp.png)
+**Mockup**
+[![](Mackupp.png)](https://jefferson141.github.io/Mackup/)
 
 
 

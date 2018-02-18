@@ -9,6 +9,8 @@ Criando **minha**, _página_, ~~principal~~.
 
 Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instituto federal de Educação de Educação Ciencia e Tecnologia do Rio Grande do Norte "IFRN" Campus Ceará-Mirim/RN
 
+**"Quem muito te critica, no fundo te admira. Fé em Deus que ele é justo"**
+
 ***
 
 # Contatos
@@ -45,7 +47,7 @@ Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instit
 
 *  **Orientadores :** Daniela Beny
 
-![IMAGEM](BannerEXPOTEC.png)
+[![IMAGEM](BannerEXPOTEC.png)](https://docs.google.com/document/d/1v4zFWwxQ6Ng70GOFBaQHAZC14bfdrlWiP0zdXP3FPBM/edit)
 
 
 
@@ -58,10 +60,11 @@ Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instit
 
 
 **Mockup**
-[![](Mackupp.png)](https://jefferson141.github.io/Mackup/)
+[![](Mackupp.png)](https://jefferson141.github.io/Mockup/)
 
 
-
+**Tutorial Multiplos Idiomas**
+[![](TutorialMultiIdioma.png)](https://drive.google.com/file/d/1bczwvJeXzpCUOJeaYsit2PXPMRPebd5P/view?ths=true)
 
 
 

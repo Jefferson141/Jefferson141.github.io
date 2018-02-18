@@ -19,7 +19,7 @@ Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instit
 
 ***
 
-## Games
+# Games
 * A missão do mensageiro
 [![](Jogo2.png)](https://jefferson141.github.io/A%20miss%C3%A3o%20do%20Mensageiro/)
 
@@ -37,10 +37,34 @@ Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instit
 ![](Arte2 A missão do Mensageiro.png)
 
 
+***
 
+# Projetos Desenvolvidos
+
+* **Projeto Integrador(PI) - MATEMÁTICA NA CRIAÇÃO DE RPG´S**
+
+*  **Orientadores :** Daniela Beny
+
+![IMAGEM](BannerEXPOTEC.png)
+
+
+
+***
+
+# Trabalhos
 
 **Influence map**
 ![](Influence map.png)
+
+
+**Mackup**
+![](Mackupp.png)
+
+
+
+
+
+
 
 ***
 

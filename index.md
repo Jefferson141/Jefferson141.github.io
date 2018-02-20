@@ -53,7 +53,7 @@ Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instit
 
 *  **Orientadores :** Daniela Beny
 
-[![IMAGEM](BannerEXPOTEC.png)](https://docs.google.com/document/d/1v4zFWwxQ6Ng70GOFBaQHAZC14bfdrlWiP0zdXP3FPBM/edit)
+[![IMAGEM](BannerEXPOTEC.png)](https://drive.google.com/open?id=1v4zFWwxQ6Ng70GOFBaQHAZC14bfdrlWiP0zdXP3FPBM)
 
 
 

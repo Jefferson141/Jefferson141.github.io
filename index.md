@@ -70,7 +70,7 @@ Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instit
 
 
 **Tutorial Multiplos Idiomas**
-[![](TutorialMultiIdioma.png)](https://drive.google.com/file/d/1bczwvJeXzpCUOJeaYsit2PXPMRPebd5P/view?ths=true)
+[![](TutorialMultiIdioma.png)](https://drive.google.com/open?id=1bczwvJeXzpCUOJeaYsit2PXPMRPebd5P)
 
 
 

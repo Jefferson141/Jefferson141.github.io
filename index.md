@@ -73,6 +73,8 @@ Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instit
 [![](TutorialMultiIdioma.png)](https://drive.google.com/open?id=1bczwvJeXzpCUOJeaYsit2PXPMRPebd5P)
 
 
+[Jogo da Velha em C++](https://drive.google.com/open?id=1x2cmarRUsn_-J7YSDcwtRZhjLyK5IwMp)
+
 
 * * *
 

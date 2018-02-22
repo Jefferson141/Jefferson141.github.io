@@ -4,7 +4,7 @@ layout: default
 
 Criando **minha**, _página_, ~~principal~~.
 
-# Quem sou eu
+# _Quem sou eu_
 ![IMAGEM](Jefferson.jpg)
 
 Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instituto federal de Educação de Educação Ciencia e Tecnologia do Rio Grande do Norte "IFRN" Campus Ceará-Mirim/RN
@@ -13,7 +13,7 @@ Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instit
 
 ***
 
-# Contatos
+# _Contatos_
 
 * Email: jeffersonaraujo141@gmail.com
 * Email Acadêmico : jefferson.araujo@escolar.ifrn.edu.br
@@ -22,7 +22,7 @@ Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instit
 
 ***
 
-# Games
+# _Games_
 
 * Mais rápido que a música 
 [![](Faster Than Song.png)](https://jefferson141.github.io/Faster%20Than%20Song/)
@@ -38,7 +38,7 @@ Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instit
 
 ***
 
-# Artes
+# _Artes_
 
 ![](Robô.png)  ![](Personagem 1.png)
 
@@ -47,7 +47,7 @@ Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instit
 
 ***
 
-# Projetos Desenvolvidos
+# _Projetos Desenvolvidos_
 
 * **Projeto Integrador(PI) - MATEMÁTICA NA CRIAÇÃO DE RPG´S**
 
@@ -59,7 +59,7 @@ Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instit
 
 ***
 
-# Trabalhos
+# _Trabalhos_
 
 
 

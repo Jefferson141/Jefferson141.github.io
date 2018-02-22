@@ -7,7 +7,9 @@ Criando **minha**, _página_, ~~principal~~.
 # _Quem sou eu_
 ![IMAGEM](Jefferson.jpg)
 
-Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instituto federal de Educação de Educação Ciencia e Tecnologia do Rio Grande do Norte "IFRN" Campus Ceará-Mirim/RN
+Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no
+instituto federal de Educação de Educação Ciencia e Tecnologia do 
+Rio Grande do Norte "IFRN" Campus Ceará-Mirim/RN
 
 **"Quem muito te critica, no fundo te admira. Fé em Deus que ele é justo"**
 

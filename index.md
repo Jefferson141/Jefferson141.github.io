@@ -64,12 +64,15 @@ Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instit
 
 
 **Influence map**
+* Para ajudar na criação dos nossos jogos e manter a criatividade no desenvolvimento, criamos nosso próprio
+influence map que serviu de estimulo para ampliar a crição de novos jogos.
+
 ![](Influence map.png)
 
 
 **Mockup**
-* Mockup - Desenvolvemos um mockup de um jogo e também um aúdio. Todas as artes tinham que serem feitas em Pixel, 
-com as dimensões 16X16 e com um tamanho de tela com dimensões 360x180. Eu e meu parceiro de trabalho, montamos nosso
+* Desenvolvemos um mockup de um jogo e também um aúdio. Todas as artes tinham que serem feitas em Pixel, 
+com as dimensões 16X16 e com um tamanho de tela com dimensões 320x180. Eu e meu parceiro de trabalho, montamos nosso
 Mockup no Construct 2, fizemos todas as artes pelo Piskel e criamos o aúdio pelo Audacity.
 
 ![](Audacity.png)

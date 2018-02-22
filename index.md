@@ -28,19 +28,19 @@ Rio Grande do Norte "IFRN" Campus Ceará-Mirim/RN
 
 * Mais rápido que a música 
 
-Parceiros: Guilherme Eglé e João Kennedy Oliveira
+**Parceiros:** Guilherme Eglé e João Kennedy Oliveira
 [![](Faster Than Song.png)](https://jefferson141.github.io/Faster%20Than%20Song/)
 
 
 * A missão do mensageiro
 
-Parceiro: Felipe Barboza
+**Parceiro:** Felipe Barboza
 [![](Jogo2.png)](https://jefferson141.github.io/A%20miss%C3%A3o%20do%20Mensageiro/)
 
 
 * Pense se você puder
 
-Parceiros: João Kennedy Oliveira e Julio Cesar Oliveira
+**Parceiros:** João Kennedy Oliveira e Julio Cesar Oliveira
 [![](Jogo1.png)](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)
 
 
@@ -95,17 +95,17 @@ Mockup no Construct 2, fizemos todas as artes pelo Piskel e criamos o aúdio pel
 ![](Audacity.png)
 
 [![](Mackupp.png)](https://jefferson141.github.io/Mockup/)
-Parceiro: Tailson Ferreira   
-Disciplina: Oficina e Criação de personagens
+**Parceiro:** Tailson Ferreira   
+**Disciplina:** Oficina e Criação de personagens
 
 **Tutorial Multiplos Idiomas**
 [![](TutorialMultiIdioma.png)](https://drive.google.com/open?id=1bczwvJeXzpCUOJeaYsit2PXPMRPebd5P)   
-Parceiros: João Kennedy Oliveira e Julio Cesar Oliveira   
-Disciplina: Motores de Jogos
+**Parceiros:** João Kennedy Oliveira e Julio Cesar Oliveira   
+**Disciplina:** Motores de Jogos
 
 [Calculadora em c++](https://drive.google.com/open?id=0B3htAGIN8ng2ZC1yQjZ6NUNuVTZYM29FS3FtWlRieXZ0U05r)   
-Parceiros: Franklin Mateus, João Victor Justino, João Kennedy Oliveira e Lucas Emmanuell   
-Disciplina: Matemática
+**Parceiros:** Franklin Mateus, João Victor Justino, João Kennedy Oliveira e Lucas Emmanuell   
+**Disciplina:** Matemática
 
 * * *
 

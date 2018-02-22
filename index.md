@@ -25,16 +25,19 @@ Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instit
 # _Games_
 
 * Mais rápido que a música 
+
 Parceiros: Guilherme Eglé e João Kennedy Oliveira
 [![](Faster Than Song.png)](https://jefferson141.github.io/Faster%20Than%20Song/)
 
 
 * A missão do mensageiro
+
 Parceiro: Felipe Barboza
 [![](Jogo2.png)](https://jefferson141.github.io/A%20miss%C3%A3o%20do%20Mensageiro/)
 
 
 * Pense se você puder
+
 Parceiros: João Kennedy Oliveira e Julio Cesar Oliveira
 [![](Jogo1.png)](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)
 
@@ -85,9 +88,11 @@ Parceiro: Tailson Ferreira
 
 **Tutorial Multiplos Idiomas**
 [![](TutorialMultiIdioma.png)](https://drive.google.com/open?id=1bczwvJeXzpCUOJeaYsit2PXPMRPebd5P)
+
 Parceiros: João Kennedy Oliveira e Julio Cesar Oliveira
 
 [Calculadora em c++](https://drive.google.com/open?id=0B3htAGIN8ng2ZC1yQjZ6NUNuVTZYM29FS3FtWlRieXZ0U05r)
+
 Parceiros: Franklin Mateus, João Victor Justino, João Kennedy Oliveira e Lucas Emmanuell
 
 * * *

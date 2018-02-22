@@ -86,6 +86,7 @@ influence map que serviu de estimulo para ampliar a crição de novos jogos.
 ![](Influence map.png)
 
 
+
 **Mockup**
 * Desenvolvemos um mockup de um jogo e também um aúdio. Todas as artes tinham que serem feitas em Pixel, 
 com as dimensões 16X16 e com um tamanho de tela com dimensões 320x180. Eu e meu parceiro de trabalho, montamos nosso

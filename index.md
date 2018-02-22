@@ -50,6 +50,7 @@ Parceiros: João Kennedy Oliveira e Julio Cesar Oliveira
 
 ![](17.png)
 
+***
 
 # _Animações_
 

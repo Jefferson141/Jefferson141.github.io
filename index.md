@@ -53,7 +53,9 @@ Parceiros: João Kennedy Oliveira e Julio Cesar Oliveira
 
 # _Animações_
 
-![](Animação1.gif)
+![](Animação1.gif)   ![](Animação-1(Correndo)-.gif)
+
+![](Animação-2.gif)
 
 
 ***

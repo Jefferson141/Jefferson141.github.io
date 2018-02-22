@@ -42,7 +42,7 @@ Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instit
 
 ![](Robô.png)
 
-![](20.png)
+![](18.png)
 
 
 ***

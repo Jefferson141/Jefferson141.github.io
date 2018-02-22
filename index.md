@@ -48,7 +48,9 @@ Parceiros: João Kennedy Oliveira e Julio Cesar Oliveira
 
 # _Artes_
 
-![](Robô.png)                            ![](Textura-iloveimg-resized.png)
+![](Robô.png)   
+
+![](Textura-iloveimg-resized.png)
 
 ![](17.png)
 

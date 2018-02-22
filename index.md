@@ -68,6 +68,10 @@ Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instit
 
 
 **Mockup**
+* Mockup - Desenvolvemos um mockup de um jogo e também um aúdio. Todas as artes tinham que serem feitas em Pixel, 
+com as dimensões 16X16 e com um tamanho de tela com dimensões 360x180. Eu e meu parceiro de trabalho, montamos nosso
+Mockup no Construct 2, fizemos todas as artes pelo Piskel e criamos o aúdio pelo Audacity.
+
 ![](Audacity.png)
 
 [![](Mackupp.png)](https://jefferson141.github.io/Mockup/)

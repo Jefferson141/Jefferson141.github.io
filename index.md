@@ -91,15 +91,16 @@ Mockup no Construct 2, fizemos todas as artes pelo Piskel e criamos o aúdio pel
 
 [![](Mackupp.png)](https://jefferson141.github.io/Mockup/)
 Parceiro: Tailson Ferreira
+Disciplina: Oficina e Criação de personagens
 
 **Tutorial Multiplos Idiomas**
 [![](TutorialMultiIdioma.png)](https://drive.google.com/open?id=1bczwvJeXzpCUOJeaYsit2PXPMRPebd5P)
-
 Parceiros: João Kennedy Oliveira e Julio Cesar Oliveira
+Disciplina: Motores de Jogos
 
 [Calculadora em c++](https://drive.google.com/open?id=0B3htAGIN8ng2ZC1yQjZ6NUNuVTZYM29FS3FtWlRieXZ0U05r)
-
 Parceiros: Franklin Mateus, João Victor Justino, João Kennedy Oliveira e Lucas Emmanuell
+Disciplina: Matemática
 
 * * *
 

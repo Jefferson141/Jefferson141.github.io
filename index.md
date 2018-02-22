@@ -64,12 +64,12 @@ Me chamo Jefferson Leocardo, sou programador de jogos digitais, estudo no instit
 
 
 **Influence map**
-![](Audacity.png)
-
 ![](Influence map.png)
 
 
 **Mockup**
+![](Audacity.png)
+
 [![](Mackupp.png)](https://jefferson141.github.io/Mockup/)
 
 

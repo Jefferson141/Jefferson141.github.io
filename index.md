@@ -28,13 +28,13 @@ Rio Grande do Norte "IFRN" Campus Ceará-Mirim/RN
 
 * Mais rápido que a música 
 
-**Parceiros:** Guilherme Eglé e João Kennedy Oliveira
+**Parceiros:** [Guilherme Eglé](https://guiegle.github.io/) e  [João Kennedy Oliveira](https://kkenedy.github.io/)
 [![](Faster Than Song.png)](https://jefferson141.github.io/Faster%20Than%20Song/)
 
 
 * A missão do mensageiro
 
-**Parceiro:** Felipe Barboza
+**Parceiro:** [Felipe Castro](https://felipecastroifrn.github.io/)
 [![](Jogo2.png)](https://jefferson141.github.io/A%20miss%C3%A3o%20do%20Mensageiro/)
 
 

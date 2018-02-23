@@ -69,8 +69,14 @@ Rio Grande do Norte "IFRN" Campus Ceará-Mirim/RN
 
 *  **Orientador(a) :** Daniela Beny
 
-[![IMAGEM](BannerEXPOTEC.png)](https://drive.google.com/open?id=1v4zFWwxQ6Ng70GOFBaQHAZC14bfdrlWiP0zdXP3FPBM)
+[![IMAGEM](BannerEXPOTEC.png)](https://drive.google.com/open?id=1v4zFWwxQ6Ng70GOFBaQHAZC14bfdrlWiP0zdXP3FPBM)  
 
+
+* **Projeto Integrador(PI) - Torre Defence**
+
+*  **Orientador(a) :** Marcelo de Barros
+
+[![IMAGEM](Torre Defence.png)](https://jefferson141.github.io/Torre%20Defence/) 
 
 
 ***

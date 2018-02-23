@@ -108,20 +108,3 @@ propedêutica. E desenvolvemos a programação em C++.
 [Calculadora em c++](https://drive.google.com/open?id=0B3htAGIN8ng2ZC1yQjZ6NUNuVTZYM29FS3FtWlRieXZ0U05r)   
 **Parceiros:**   [Franklin Mateus](https://thewordkh.github.io/), [João Kennedy Oliveira](https://kkenedy.github.io/), [João Victor](https://juvito.github.io/), [Lucas Emannuell](https://lucas-manolo.github.io/)
 **Disciplina:** Matemática
-
-* * *
-
-** negrito
-_ italico
-~~ riscado
-  dois espaços p/ pular linha
-3* adiciona uma linha horizontal
-#s uma ou mais hasthags criam capítulos ou sub capítulos
-*s adiciona uma lista não numerada
-1s numeros adicionam uma lista numerada
-
-* * *
-
-
-
-

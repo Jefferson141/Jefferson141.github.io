@@ -40,7 +40,7 @@ Rio Grande do Norte "IFRN" Campus Ceará-Mirim/RN
 
 * Pense se você puder
 
-**Parceiros:** João Kennedy Oliveira e Julio Cesar Oliveira
+**Parceiros:** [João Kennedy Oliveira](https://kkenedy.github.io/) e [Julio Cesar Oliveira](https://cesarabc45.github.io/)
 [![](Jogo1.png)](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)
 
 

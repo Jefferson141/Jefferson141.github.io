@@ -74,7 +74,7 @@ Rio Grande do Norte "IFRN" Campus Ceará-Mirim/RN
 
 * **Projeto Integrador(PI) - Torre Defence**
 
-*  **Orientador(a) :** Marcelo de Barros
+*  **Orientador(a) :** [Marcelo Barros](http://marcelomesmo.github.io/)
 
 [![IMAGEM](Torre Defence.png)](https://jefferson141.github.io/Torre%20Defence/) 
 

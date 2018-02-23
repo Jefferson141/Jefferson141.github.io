@@ -1,8 +1,6 @@
 ---
 layout: default
----
-
-Criando **minha**, _página_, ~~principal~~.
+---  
 
 # _Quem sou eu_
 ![IMAGEM](Jefferson.jpg)

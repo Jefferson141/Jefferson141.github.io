@@ -106,7 +106,7 @@ Mockup no Construct 2, fizemos todas as artes pelo Piskel e criamos o aúdio pel
 * A calculadora foi um trabalho desenvolvido na materia de matemática com o intuito de juntar a programação com a matéria
 propedêutica. E desenvolvemos a programação em C++
 [Calculadora em c++](https://drive.google.com/open?id=0B3htAGIN8ng2ZC1yQjZ6NUNuVTZYM29FS3FtWlRieXZ0U05r)   
-**Parceiros:** Franklin Mateus, João Victor Justino, João Kennedy Oliveira e Lucas Emmanuell   
+**Parceiros:**   [Franklin Mateus](https://thewordkh.github.io/), [João Kennedy Oliveira](https://kkenedy.github.io/), [João Victor](https://juvito.github.io/), [Lucas Emannuell](https://lucas-manolo.github.io/)
 **Disciplina:** Matemática
 
 * * *

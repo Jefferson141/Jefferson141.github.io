@@ -95,12 +95,12 @@ Mockup no Construct 2, fizemos todas as artes pelo Piskel e criamos o aúdio pel
 ![](Audacity.png)
 
 [![](Mackupp.png)](https://jefferson141.github.io/Mockup/)
-**Parceiro:** Tailson Ferreira   
+**Parceiro:** [Tailson Ferreira](https://tayllson.github.io/)   
 **Disciplina:** Oficina e Criação de personagens
 
 **Tutorial Multiplos Idiomas**
 [![](TutorialMultiIdioma.png)](https://drive.google.com/open?id=1bczwvJeXzpCUOJeaYsit2PXPMRPebd5P)   
-**Parceiros:** João Kennedy Oliveira e Julio Cesar Oliveira   
+**Parceiros:** [João Kennedy Oliveira](https://kkenedy.github.io/) e [Julio Cesar Oliveira](https://cesarabc45.github.io/)   
 **Disciplina:** Motores de Jogos
 
 [Calculadora em c++](https://drive.google.com/open?id=0B3htAGIN8ng2ZC1yQjZ6NUNuVTZYM29FS3FtWlRieXZ0U05r)   

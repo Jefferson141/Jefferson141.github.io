@@ -1,0 +1,33 @@
+﻿{
+	"version": 1519594705,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/gato-sheet0.png",
+		"images/olho-sheet0.png",
+		"images/espaço1-sheet0.png",
+		"images/espaço2-sheet0.png",
+		"images/espaço3-sheet0.png",
+		"images/espaço4-sheet0.png",
+		"images/porta-sheet0.png",
+		"images/caminho-sheet0.png",
+		"images/fundochão-sheet0.png",
+		"images/chão-sheet0.png",
+		"images/cabeçagato-sheet0.png",
+		"images/vida-sheet0.png",
+		"images/pause-sheet0.png",
+		"images/caminho2-sheet0.png",
+		"images/pontos-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/olho2-sheet0.png",
+		"media/trilha 3.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
